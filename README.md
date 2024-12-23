@@ -4,29 +4,28 @@ A simple task management app built with Flutter (frontend) and Django (backend).
 
 ## Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-  <div style="text-align: center;">
-    <img src="screenshots/Screenshot_1734964887.png" alt="Home Screen" style="width: 100%; max-width: 200px;">
-    <p>Home Screen: Showing normal tasks in purple and urgent ones in red (urgent tasks stay on top).</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="screenshots/Screenshot_1734964893.png" alt="Add Task" style="width: 100%; max-width: 200px;">
-    <p>Add Task: Dialog for adding a new task.</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="screenshots/Screenshot_1734964900.png" alt="Edit Task" style="width: 100%; max-width: 200px;">
-    <p>Edit Task: Dialog for modifying existing task information.</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="screenshots/Screenshot_1734964918.png" alt="Checked Tasks" style="width: 100%; max-width: 200px;">
-    <p>Checked Tasks: Tasks marked as completed.</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_1734964887.png" alt="Home Screen" width="300">
+      <p>Home Screen: Showing normal tasks in purple and urgent ones in red (urgent tasks stay on top).</p>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_1734964893.png" alt="Add Task" width="300">
+      <p>Add Task: Dialog for adding a new task.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_1734964900.png" alt="Edit Task" width="300">
+      <p>Edit Task: Dialog for modifying existing task information.</p>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_1734964918.png" alt="Checked Tasks" width="300">
+      <p>Checked Tasks: Tasks marked as completed.</p>
+    </td>
+  </tr>
+</table>
 
 ## License
 
