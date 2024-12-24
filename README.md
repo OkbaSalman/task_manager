@@ -29,10 +29,13 @@ A simple task management app built with Flutter (frontend) and Django (backend).
 
 ### Description
 
-- **Home Screen**: Shows normal tasks in purple and urgent ones in red (urgent tasks stay on top).
-- **Add Task**: Dialog for adding a new task.
-- **Edit Task**: Dialog for modifying existing task information.
-- **Checked Tasks**: Tasks marked as completed.
+- **Home Screen**: Shows normal tasks in purple and urgent ones in red (urgent tasks stay on top).  
+- **Add Task**: Dialog for adding a new task.  
+- **Edit Task**: Dialog for modifying existing task information.  
+- **Checked Tasks**: Tasks marked as completed.  
+
+For more information, check out the scenario and the BPMN diagram [here](ScenarioAndDiagram.pdf).
+
 
 ## License
 
